@@ -1,2 +1,2 @@
 # Using-Methods
-Creating methods and getting the desired output.
+Creaintg a player's ranking table by using methods.
