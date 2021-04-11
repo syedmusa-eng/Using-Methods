@@ -2,7 +2,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //Calling the 1st and 2nd the method
+        //Calling the 1st and the 2nd method
+        //Referring the returning value to the int ranking
+        //and printing the table 
         int ranking = calculateHighScorePosition(1500);
         displayHighScorePosition("Virat Kohli", ranking);
 
