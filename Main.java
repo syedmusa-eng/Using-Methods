@@ -38,9 +38,9 @@ public class Main {
 
         if(score >= 1000){
             position = 1;
-        }else if(score >= 500){
+        }else if(score >= 500){       // unlike the previous code we do not need to specify the condition if score is < 1000.
             position = 2;
-        }else if(score >= 100){
+        }else if(score >= 100){       // unlike the previous code we do not need to specify the condition if score is < 500.
             position = 3;
         }
         return position ;
